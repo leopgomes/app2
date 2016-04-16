@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Nosso APP</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_clientes">Clientes</string>
+    <string name="nav_item_fornecedores">Fornecedores</string>
+    <string name="nav_item_vistorias">Vistorias</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_clientes</item>
+        <item>@string/nav_item_fornecedores</item>
+        <item>@string/nav_item_vistorias</item>
+    </string-array>
+
+    <string name="title_vistorias">Vistorias</string>
+    <string name="title_fornecedores">Fornecedores</string>
+    <string name="title_clientes">Clientes</string>
+    <string name="title_activity_login">Login</string>
+
+
+    <string name="btnEntar">Entrar</string>
+    <string name="edtLogin">E-mail</string>
+    <string name="edtSenha">Senha</string>
+    <string name="btnCadastrar">Cadastrar</string>
+
+</resources>
